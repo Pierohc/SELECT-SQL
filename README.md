@@ -30,6 +30,10 @@ Tambien se puede usar comillas dobles o comillas simples y no poner `as`, sin em
 
 ![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/f5b7f80e-35a2-49ce-9655-0af367ed985b)
 
+## Para fechas:
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/352ae971-5787-4d32-b887-1cf79cc624d0)
+
+
 
 
 
