@@ -33,6 +33,34 @@ Tambien se puede usar comillas dobles o comillas simples y no poner `as`, sin em
 ## Para fechas:
 ![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/352ae971-5787-4d32-b887-1cf79cc624d0)
 
+## Mostrar una columna sin repetir datos:
+Solo se puede mostrar una unica columna con está opción
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/da996812-f913-4d95-b32d-97a5924c684e)
+
+## Ordenar columna:
+Se puede colocar order by salary desc o 
+
+order by salary asc(este ultimo equivale a no poner nada), ya que por defecto ordena de menor a mayor
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/77f95305-a039-42eb-aa1e-d558d9813af3)
+
+Y si hay datos que se repiten y quiero que pase a ordenarse por nombre esos comunes en salario:
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/62894fc1-e816-40c4-98e7-486c5171045f)
+
+Tambien funciona para VARCHAR. Entre numeros y letras, lo mayor serán las letras y lo menos los numeros:
+
+Menor a Mayor: 1,2,...,9,a,b,c,...,z
+
+Menor a Mayor: z,...,b,a,9,8,...,2,1
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/0a4b8151-501b-42f1-98d0-33e5dd20e255)
+
+
+
+
+
+
+
+
+
 
 
 
