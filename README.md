@@ -266,6 +266,30 @@ Si se enuncia "tenga o no" usamos left join
 
 ![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/9354c0f1-3b7c-4076-9c20-007410eade73)
 
+------------
+
+## Si queremos mostrar los empleados con el mayor suelda, saldrá solo uno si lo hacemos de esta forma:
+
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/55348f66-712c-4b06-a367-a349d7abdc23)
+
+
+
+
+Primero averiguamos el sueldo maximo:
+
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/5bd281db-38d1-4da5-99b4-70f3059b3f40)
+
+Verificamos como sería la lista con codigo hardcodeado:
+
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/5bb792d4-c5e1-400c-96f1-1da39c55597f)
+
+
+Solución: 
+
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/35b9bc5a-5af8-4bd8-b351-b36d835626e5)
+
+
+
 
 
 
