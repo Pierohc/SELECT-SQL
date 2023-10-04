@@ -1,3 +1,7 @@
+# Orden:
+
+![image](https://github.com/Pierohc/SELECT-SQL/assets/133154904/7133f2d7-521c-41df-9ae5-63b905b3601b)
+
 # Select - From:
 No debe haber una coma antes del `FROM`
 
